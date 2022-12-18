@@ -1,0 +1,28 @@
+.container__bigcard{
+    color: #fff;
+    border: solid #fff;
+    width: 400px;
+    height: 600px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.bigcard__photo > img{
+    height: auto;
+    width: 100%;
+}
+
+.bigcard__title{
+    font-size: .8rem;
+}
+
+.bigcard__description{
+    margin-top: 1rem;
+}
+
+.bigcard__description > p{
+    color: gray;
+}
