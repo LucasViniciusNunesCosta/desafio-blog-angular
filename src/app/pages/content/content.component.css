@@ -9,9 +9,10 @@
 
 .content__cover > img{
     border-radius: 5px;
-    width: 500px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
     min-width: 500px;
+    margin-top: 1rem;
 }
 
 .content__description{
